@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting Karma and Jasmine with AngularJs
+title: Setting Up Karma and Jasmine with AngularJs
 ---
 
 First things what are Karma and Jasmine? Karma is a Javascript test runner who's goal is bring productive test environment to developers, an environment in which you don't have to load configurations you simply write code and get instant feedback from tests. Jasmine is an open source testing framework for Javascript. It is designed for easy to read syntax and to run on any Javascript-enabled platform.
