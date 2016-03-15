@@ -29,33 +29,33 @@ When running init, you'll received many prompts to cycle through but you can mos
 
 The prompts are as follows:
 
-Which testing framework do you want to use?
+**Which testing framework do you want to use? **
 
-Default value, Jasmine
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Default value, Jasmine
 
-Do you want to use Require.js ?
+**Do you want to use Require.js ? **
 
-Default value, No
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Default value, No
 
-Do you want to capture any browsers automatically ?
+**Do you want to capture any browsers automatically ?**
 
-Default value, Chrome
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Default value, Chrome
 
-What is the location of your source and test files ?
+**What is the location of your source and test files ?**
 
-Enter location of your test files
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enter location of your test files
 
-Don't worry if you don't remember just yet, we can directly edit the config file at a later stage.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Don't worry if you don't remember just yet, we can directly edit the config file at a later stage.
 
-Should any of the files included by the previous patterns be excluded ?
+**Should any of the files included by the previous patterns be excluded ? **
 
-Default value, No
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Default value, No
 
-Do you want Karma to watch all the files and run the tests on change ?
+**Do you want Karma to watch all the files and run the tests on change ? **
 
-Default value, Yes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Default value, Yes
 
-The config file called karma.conf.js will be created in the root folder.
+**The config file called karma.conf.js will be created in the root folder.**
 
 After the init script has completed, you'll be able to manually append the files in you need.  The order you append the files is very important. You must
 
